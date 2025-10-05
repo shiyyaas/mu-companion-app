@@ -3,7 +3,7 @@ function Suggested() {
         <section className="rounded-lg border border-gray-700 my-2">
             <div className="flex p-4 bg-gray-700 rounded-t-lg items-center">
                 <p>Suggested</p>
-                <a className="ml-auto" href="#">View All</a>
+                <a className="ml-auto text-purple-400" href="#">View All</a>
             </div>
             <div className="flex p-4 items-center">
                 <p>Self Introduction</p>
