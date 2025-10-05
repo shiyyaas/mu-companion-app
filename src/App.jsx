@@ -1,5 +1,5 @@
 import './App.css'
-import Navbar from './components/navbar'
+import Navbar from './components/Navbar'
 import Dashboard from './components/Dashboard'
 import Category from './components/Category'
 import Summary from './components/Summary'
